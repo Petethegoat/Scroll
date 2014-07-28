@@ -1,0 +1,80 @@
+body
+{
+	margin: 0 auto 0 auto;
+	text-align: center;
+	font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+	color: white;
+	overflow-y: hidden;
+}
+
+a
+{
+	color: white;
+}
+
+.button
+{
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	width: 240px;
+	height: 48px;
+	border-radius: 12px;
+	border: 2px;
+	border-color: white;
+	border-style: solid;
+	margin-left: 24px;
+	margin-right: 24px;
+}
+
+.head
+{
+	font-size: 32pt;
+}
+
+.sub
+{
+	font-size: 16pt;
+}
+
+.info
+{
+	font-size: 12pt;
+}
+
+.center
+{
+	position: relative;
+	top: 12px;
+}
+
+.image
+{
+	position: relative;
+	top: -510px;
+}
+
+.space60
+{
+	height: 60px;
+}
+
+.space120
+{
+	height: 120px;
+}
+
+.top
+{
+	background: #3E579F;
+}
+
+.bottom
+{
+	background: #29386C;
+}
+
+.footer
+{
+	color: black;
+}
