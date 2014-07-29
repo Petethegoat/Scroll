@@ -1,6 +1,7 @@
 body
 {
 	margin: 0 auto 0 auto;
+	overflow-y: hidden;
 	text-align: center;
 	font-family: 'Open Sans',Helvetica,Arial,sans-serif;
 	-webkit-font-smoothing: antialiased;
@@ -96,4 +97,14 @@ a
 	bottom: 0%;
 	left: 50%;
 	margin-left: -240px;
+}
+
+@media all and (max-width: 600px)
+{
+	.button
+	{
+		width: 190px;
+		margin-left: 16px;
+		margin-right: 16px;
+	}
 }
