@@ -1,6 +1,6 @@
 body
 {
-	margin: 0 auto 0 auto;
+	margin: auto;
 	overflow-y: hidden;
 	text-align: center;
 	font-family: 'Open Sans',Helvetica,Arial,sans-serif;
@@ -43,6 +43,8 @@ a
 
 .sub
 {
+	width: 70%;
+	margin: auto;
 	font-size: 16pt;
 	font-weight: lighter;
 }
