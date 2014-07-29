@@ -29,12 +29,14 @@ a
 
 .head
 {
-	font-size: 32pt;
+	font-size: 42pt;
+	font-weight: lighter;
 }
 
 .sub
 {
 	font-size: 16pt;
+	font-weight: lighter;
 }
 
 .info
