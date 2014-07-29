@@ -6,6 +6,7 @@ body
 	-webkit-font-smoothing: antialiased;
 	color: white;
 	background: #29386C;
+	overflow-y: hidden;
 }
 
 a
