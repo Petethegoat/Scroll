@@ -103,6 +103,7 @@ a
 .wrapper
 {
 	margin: 0 auto -120px;
+	min-height: 100%;
 }
 
 .push
