@@ -4,7 +4,7 @@ body
 	text-align: center;
 	font-family: 'Open Sans',Helvetica,Arial,sans-serif;
 	color: white;
-	overflow-y: hidden;
+	background: #29386C;
 }
 
 a
@@ -87,4 +87,5 @@ a
 .footer
 {
 	color: black;
+	background: white;
 }
