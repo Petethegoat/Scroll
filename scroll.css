@@ -27,6 +27,13 @@ a
 	margin-right: 24px;
 }
 
+.button:hover
+{
+	color: #3E579F;
+	background-color: white;
+	transition: 0.3;
+}
+
 .head
 {
 	font-size: 42pt;
