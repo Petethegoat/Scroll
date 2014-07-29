@@ -25,13 +25,13 @@ a
 	border-style: solid;
 	margin-left: 24px;
 	margin-right: 24px;
+	transition: all 0.3s;
 }
 
 .button:hover
 {
 	color: #3E579F;
 	background-color: white;
-	transition: 0.3;
 }
 
 .head
