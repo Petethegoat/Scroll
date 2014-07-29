@@ -52,8 +52,9 @@ a
 
 .image
 {
-	position: relative;
-	top: -510px;
+	position: absolute;
+	top: 320px;
+	margin-left: -229px;
 }
 
 .space60
