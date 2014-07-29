@@ -3,6 +3,7 @@ body
 	margin: 0 auto 0 auto;
 	text-align: center;
 	font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+	-webkit-font-smoothing: antialiased;
 	color: white;
 	background: #29386C;
 }
@@ -14,7 +15,6 @@ a
 
 .button
 {
-	color: white;
 	text-decoration: none;
 	display: inline-block;
 	width: 240px;
