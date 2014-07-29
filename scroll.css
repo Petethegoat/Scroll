@@ -102,12 +102,12 @@ a
 
 .wrapper
 {
-	
+	margin: 0 auto -120px;
 }
 
 .push
 {
-	height: 120px;
+	height: 180px;
 }
 
 @media all and (max-width: 600px)
